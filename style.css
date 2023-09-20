@@ -21,8 +21,9 @@ button {
   border-radius: 15px;
   border: none;
   cursor: pointer;
+  margin-top:20px;
   margin-bottom: 20px;
-  background-color: white;
+  background-color: #db79c5;
   color: black;
 }
 
