@@ -17,7 +17,7 @@ background: linear-gradient(308deg, rgba(150,150,162,1) 33%, rgba(121,215,219,1)
   align-items: center;
 }
 button {
-  padding: 10px;
+  padding: 30px;
   border-radius: 15px;
   border: none;
   cursor: pointer;
