@@ -7,13 +7,8 @@
 }
 body {
   height: 100vh;
-  background: rgb(131, 58, 180);
-  background: linear-gradient(
-    340deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(253, 29, 29, 1) 50%,
-    rgba(252, 176, 69, 1) 100%
-  );
+  background: rgb(150,150,162);
+background: linear-gradient(308deg, rgba(150,150,162,1) 0%, rgba(4,173,180,1) 90%);
 }
 .container {
   margin-top: 50px;
