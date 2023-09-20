@@ -39,7 +39,9 @@ button {
   height: 300px;
   background-size: cover;
   border-radius: 10px;
-  background-color: #350754;
+/*   background-color: #350754; */
+  background: rgb(222,99,246);
+background: linear-gradient(308deg, rgba(222,99,246,1) 2%, rgba(150,150,162,1) 53%, rgba(222,99,246,1) 90%);
   color: white;
   font-size: 20px;
   padding: 20px;
