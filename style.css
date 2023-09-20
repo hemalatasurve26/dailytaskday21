@@ -8,7 +8,7 @@
 body {
   height: 100vh;
   background: rgb(150,150,162);
-background: linear-gradient(308deg, rgba(150,150,162,1) 0%, rgba(4,173,180,1) 90%);
+background: linear-gradient(308deg, rgba(150,150,162,1) 33%, rgba(121,215,219,1) 90%);
 }
 .container {
   margin-top: 50px;
